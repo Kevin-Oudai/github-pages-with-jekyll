@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my page
 
-I'm glad you are here. I plan to talk about ...
+My name is Kevin Oudai. I'm glad you are here. I will try to give you a brief outline of my skills.
