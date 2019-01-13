@@ -1,6 +1,6 @@
 ---
 title: "First-Post"
-data: 2019-01-13
+date: 2019-01-13
 ---
 #Learn Pages
 So far I have learned
